@@ -1,0 +1,36 @@
+body {
+    background-color: pink;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+p {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#intro {
+    border: 1px solid green;
+}
+
+.blue {
+    color: blue;
+}
+
+img {
+    border: 3px solid black;
+    height: 250px;
+    margin: 50px 10px 15px 50px;
+    padding: 50px;
+}
+
+ul {
+    margin: 0 auto;
+    width: 200px;
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+}
